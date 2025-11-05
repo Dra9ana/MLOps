@@ -1,5 +1,5 @@
 [project]
-name = "python_project"
+name = "example_01"
 version = "0.0.1"
 description = "Minimal Python project created by assistant"
 readme = "README.md"

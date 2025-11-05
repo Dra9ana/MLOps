@@ -1,0 +1,13 @@
+# MLflow configuration
+mlflow:
+  tracking_uri: "http://localhost:5000"
+  experiment_name: 'KNNUsingMLFlow'
+  artifact_location: "C:/Users/Dragana/Desktop/MLOps/mlruns"
+
+# Database configuration
+database:
+  host: "localhost"
+  port: 3306
+  database: "mlflowdb"
+  username: "root"
+  # password: set this via environment variable DB_PASSWORD

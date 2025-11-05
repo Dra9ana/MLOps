@@ -1,3 +1,5 @@
 # Add runtime dependencies here, one per line (e.g. requests==2.31.0)
 mlflow
 scikit-learn
+pymysql
+logging

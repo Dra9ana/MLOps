@@ -5,7 +5,7 @@ Minimal Python project skeleton.
 How to run the small smoke test (PowerShell):
 
 ```powershell
-cd C:\Users\Dragana\Desktop\MLOps\python_project
+cd C:\Users\Dragana\Desktop\MLOps\example_01
 python tests\test_basic.py
 ```
 
